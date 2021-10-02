@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on challenging projects as a junior C++ developer. 
 - 🤔 I’m searching for any oportunity that helps me grow into a better computer programmer.
 
-- 📫 How to reach me: www.linkedin.com/in/adrian-emilian-cornea-2ba764221/
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/adrian-emilian-cornea-2ba764221/)
